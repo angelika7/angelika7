@@ -3,17 +3,14 @@
 <!--
 **angelika7/angelika7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-My name is Angelika 🤓 Since 1.5 years, I am self-teaching front-end development using courses and
-materials from YouTube, Udemy, freeCodeCamp and blogs. I've gained
-knowledge about e.g. SCSS, JS, React, Node.js, MongoDB and Mongoose and
-used in my Github projects. In case of issues with the code, I search for solutions,
-understand them and implement required fixes. I am looking for my first job 👩‍💻,
-which will allow me to grow and gain experience. I am a sociologist by profession
-with a huge passion for programming.
+My name is Angelika 🤓 Since 2 years I have worked as a Frontend Developer. I did a project in Vue3 with
+Composition API. I used Vuex, Storybook, Jest and Testcafe. In addition, I was
+creating stores in Shopify/Shopify Plus. I am looking for a job which gives me
+possibilities to develop my knowledge and gain new experience.
  
 
 - 🔭 I’m currently working on an application for selling books
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning React.js
 - 💬 Ask me about my projects
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love travelling. I wanna be a digital nomad
