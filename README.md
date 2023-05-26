@@ -3,7 +3,7 @@
 <!--
 **angelika7/angelika7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-My name is Angelika 🤓 Since 2 years I have worked as a Frontend Developer. I did a project in Vue3 with
+My name is Angelika 🤓 For 2 years I have been working as a Frontend Developer. I did a project in Vue3 with
 Composition API. I used Vuex, Storybook, Jest and Testcafe. In addition, I was
 creating stores in Shopify/Shopify Plus. I am looking for a job which gives me
 possibilities to develop my knowledge and gain new experience.
